@@ -6,7 +6,7 @@
 set -e
 
 APP_NAME="styk"
-GITHUB_REPO="USERNAME/styk" # Nahraďte vaším uživatelským jménem a repozitářem na GitHubu
+GITHUB_REPO="tomas-trantina/styk" # Nahraďte vaším uživatelským jménem a repozitářem na GitHubu
 RAW_BASE_URL="https://raw.githubusercontent.com/${GITHUB_REPO}/main"
 
 # Barevný výstup
