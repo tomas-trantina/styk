@@ -37,7 +37,7 @@
 Nainstalujte STYK VCS na svůj systém (Linux, Android Termux, macOS) pomocí jediného příkazu v terminálu:
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/USERNAME/styk/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/tomas-trantina/styk/main/install.sh | bash
 ```
 
 > 💡 *Nezapomeňte v odkazu nahradit `USERNAME/styk` za název vašeho GitHub účtu a repozitáře.*
